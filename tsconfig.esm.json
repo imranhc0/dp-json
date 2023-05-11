@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "target": "es5",
+      "module": "es6",
+      "declaration": true,
+      "outDir": "./dist/lib/es6",
+      "lib": ["es2017"],
+      "strict": true,
+      "esModuleInterop": true
+    },
+    "include": ["src"],
+    "exclude": ["node_modules", "**/__tests__/*"]
+  }
+  

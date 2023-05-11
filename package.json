@@ -1,0 +1,15 @@
+{
+  "name": "dp-json",
+  "version": "1.0.0",
+  "description": "This Package for deeply nasted json parse to same lavel json",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc && tsc -p tsconfig.esm.json",
+    "prepublishOnly": "npm run build"
+  },  
+  "author": "Md Imran Hossen",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}

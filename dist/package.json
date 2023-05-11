@@ -1,0 +1,30 @@
+{
+    "name": "dp-json",
+    "version": "0.0.1",
+    "description": "A Tiny Package For Parse deeply nasted json to 1 lavel json",
+    "main": "lib/es5/index.js",
+    "module": "lib/es6/index.js",
+    "sideEffects": false,
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/mohammadimran-h90/dp-json.git"
+    },
+    "files": [
+      "lib",
+      "CHANGELOG.md",
+      "LICENSE",
+      "package.json",
+      "README.md"
+    ],
+    "keywords": [
+      "javascript",
+      "utils",
+      "utilities"
+    ],
+    "author": "Md Imran Hossen",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/mohammadimran-h90/dp-json/issues"
+    },
+    "homepage": "https://github.com/mohammadimran-h90/dp-json#readme"
+  }
