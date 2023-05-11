@@ -13,14 +13,16 @@ or
 
 yarn add dp-json
 
+```
 
 ##Usage
+
 ```
 import { deepParseJSON } from 'dp-json';
 
+// const {deepParseJSON} = require('dp-json') or use for commonjs
 ```
 
-// const {deepParseJSON} = require('dp-json') or use for commonjs
 
 ```
 const json = {
