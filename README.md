@@ -15,7 +15,7 @@ yarn add dp-json
 
 ```
 
-##Usage
+## Usage
 
 ```
 import { deepParseJSON } from 'dp-json';
@@ -55,7 +55,7 @@ const parse = deepParseJSON(json)
 console.log(parse)
 ```
 
-** Output 
+## Output 
 
 ``` 
 {
